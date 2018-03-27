@@ -73,7 +73,7 @@ LICENSE
 }
   s.homepage = 'http://image-metrics.com/'
   s.summary = 'LiveDriverSDKiOS framework'
-  s.source = { :http => 'http://nexus.apps.image-metrics.net/repository/pods-im-global/LiveDriverSDKiOS-3.0.2+40566.79c564f546b4.PlatformBenchmarksNative.zip'}
+  s.source = { :http => 'http://nexus.apps.image-metrics.net/repository/pods-im-global/LiveDriverSDKiOS-3.0.2+40578.92cdc1dde48d.PlatformBenchmarksNative.zip'}
 
   # Platform
   s.platform = :ios, '8.0'
