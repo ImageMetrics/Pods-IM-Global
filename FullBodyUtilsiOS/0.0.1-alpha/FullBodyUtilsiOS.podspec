@@ -73,7 +73,7 @@ LICENSE
 }
   s.homepage = 'http://image-metrics.com/'
   s.summary = 'FullBodyUtilsiOS framework'
-  s.source = { :http => 'https://nexus.apps.image-metrics.net/repository/pods-im-global/FullBodyUtilsiOS-0.0.1-alpha+51695.1349414dd153.zip'}
+  s.source = { :http => 'https://nexus.apps.image-metrics.net/repository/pods-im-global/FullBodyUtilsiOS-0.0.1-alpha+51698.d2745e787248.zip'}
 
   # Platform
   s.platform = :ios, '11.0'
