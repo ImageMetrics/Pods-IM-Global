@@ -73,7 +73,7 @@ LICENSE
 }
   s.homepage = 'http://image-metrics.com/'
   s.summary = 'BodyDriverSDKiOS framework'
-  s.source = { :http => 'https://nexus.apps.image-metrics.net/repository/pods-im-global/BodyDriverSDKiOS-0.0.1-alpha+25.c40eaea2f7ae.zip'}
+  s.source = { :http => 'https://nexus.apps.image-metrics.net/repository/pods-im-global/BodyDriverSDKiOS-0.0.1-alpha+26.d1de4b64e634.zip'}
 
   # Platform
   s.platform = :ios, '11.0'
